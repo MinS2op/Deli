@@ -1,5 +1,6 @@
 # 프로젝트 명: Deli
 > 목표: 빅테크 기업들이 운영하는 소비자와 식당 운영자를 연결시켜주는 배달 앱을 WebApp으로 구현.
+![스크린샷_20230125_054212](https://user-images.githubusercontent.com/114593306/214518694-9b14825f-5f54-42cf-b384-e4f28062a226.png)
 ## 목차
 1. [소개](https://github.com/Jihoon-An/KH_final_deli.project/blob/main/README.md#1-%EC%86%8C%EA%B0%9C)
 - 프로젝트에 시도하고 싶었던 것
